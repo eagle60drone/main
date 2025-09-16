@@ -1,0 +1,15 @@
+{
+  "name": "Eagle60 Drone Services",
+  "short_name": "Eagle60",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0d12",
+  "theme_color": "#0aeef0",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}

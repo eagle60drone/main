@@ -1,0 +1,1 @@
+Place your portfolio images and social-card.jpg in this folder.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0aeef0"/><stop offset="1" stop-color="#7cf39b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0a0d12"/>
+  <g fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- stylized eagle head + 60 in negative space -->
+    <path d="M10 38c8-14 20-22 34-22 6 0 8 2 8 4 0 6-12 10-18 12 6 0 12 2 16 6-8 6-22 10-34 6" />
+    <path d="M26 34c4-2 8-6 10-8" />
+  </g>
+  <text x="12" y="48" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="16" fill="url(#g)">E60</text>
+</svg>
